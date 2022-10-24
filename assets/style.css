@@ -19,16 +19,18 @@
     font-size: larger;
   }
   nav {
+    display:flex; 
+    background-color: var(--accent1);
     font-size: 23px;
-    float:right; 
     min-height: 15px;
-    display:block; 
+    width: 100%
+ 
   }
 
   nav a {
     color: var(--accent0);
     text-decoration: underline;
-    padding: 15px;
+    padding: 10px;
   }
 
   body { 
@@ -40,8 +42,6 @@
     display: flex;
     flex-wrap: wrap;
     margin-top: 2%;
-    margin-left: 30px;
-    margin-right: 30px;
     color: var(--txtcolor1);
   }
 
