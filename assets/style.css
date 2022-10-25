@@ -19,7 +19,7 @@
     font-size: larger;
   }
   nav {
-    display:flex; 
+    display:flex;
     background-color: var(--accent1);
     font-size: 23px;
     min-height: 15px;
@@ -54,6 +54,10 @@
   .intro #title {
     font-size: 30px;
 
+  }
+
+  .intro #profile {
+    border-radius: 50%;
   }
   .project {
     flex: 4;
