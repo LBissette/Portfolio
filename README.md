@@ -1,5 +1,5 @@
 # Portfolio
-![Screenshot](assets\photos\screenshot.png "Screenshot")
+![Screenshot](assets/photos/screenshot.png "Screenshot")
 ## Description
 This website was created to showcase my projects as a portfolio.
 
