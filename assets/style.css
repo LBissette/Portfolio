@@ -90,10 +90,12 @@
     color: var(--accent0);
     border-radius: var(--borrad);
   }   
+  
 
   .card img {
     width: 100%;
     min-width: 400px;  
+    outline-style: auto;
   }  
 
   .card:hover, .card:hover .card-header {
@@ -109,7 +111,9 @@
     margin-top: auto;
   }
 
-  footer a {
+  footer a, a {
     color: var(--accent0);
     text-decoration: underline;
     padding: 15px;
+  }
+  
